@@ -1,0 +1,56 @@
+body{
+	padding: 0;
+	margin: 0;
+	font-family: "YouYuan";
+}
+
+.clear {
+	clear: both;
+}
+
+.index_img{
+	margin-left: -40px;
+}
+
+.index_icon{
+	padding-top:80px; 
+	width: 20px;
+}
+
+.index_title{
+	margin-top: 30px;
+}
+.home-description{
+	font-size: 20px;
+	padding-top: 30px;
+	width: 400px;
+	margin: 0 auto;
+
+}
+.btn_skills{
+	border: 2px solid #6E6E6E;
+	font-family: 微软雅黑;
+	border-radius: 0;
+	margin-top:60px; 
+	font-size: 18px;
+	padding-left: 25px;
+	padding-right: 28px;
+}
+.btn_contact{
+	border: 2px solid #6E6E6E;
+	font-family: 微软雅黑;
+	border-radius: 0;
+	margin-top:30px; 
+	font-size: 18px;
+	padding-left: 25px;
+	padding-right: 28px;
+}
+.btn-back{
+	border: 2px solid #6E6E6E;
+	font-family: 微软雅黑;
+	border-radius: 0;
+	margin-top:30px; 
+	font-size: 18px;
+	padding-left: 25px;
+	padding-right: 28px;
+}
